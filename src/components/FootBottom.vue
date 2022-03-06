@@ -94,8 +94,5 @@
      align-items: center;
 }
 
-.sous-block2{
-    background-color: green;
-}
 
 </style>
